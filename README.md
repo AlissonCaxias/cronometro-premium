@@ -109,7 +109,7 @@ Visualizar Agora!, Clique no Botão abaixo:<br>
 
 1. **Baixe ou clone** este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/cronometrador.git
+   git clone https://github.com/AlissonCaxias/cronometro-premium.git
    ```
 2. Abra a pasta do projeto
 3. Dê **dois cliques** em `index.html`  
