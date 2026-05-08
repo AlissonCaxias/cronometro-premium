@@ -182,7 +182,7 @@ O cronômetro aparecerá no seu Desktop e na barra de tarefas como um app nativo
 
 ---
 
-## 👩‍💻 Autora
+## 👩‍💻 Autoria
 
 Desenvolvido por **Alisson** como parte da jornada **Rumo a Fullstack** — Abril/2026.
 
